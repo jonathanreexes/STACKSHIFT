@@ -2,6 +2,7 @@
 
 STACKSHIFT is a modern, browser-based reimagining of the classic Tetris game.  
 It is built with **HTML5 Canvas** and **vanilla JavaScript**, featuring a clean neon-inspired modern interface and smooth gameplay.   
+---
 
 ---
 *Made by Jonathan Reeves.*
